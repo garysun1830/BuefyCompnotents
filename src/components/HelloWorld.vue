@@ -7,11 +7,33 @@
     <OptionDown />
     <Buttons />
     <Icons />
+    <Autocomplete />
+    <AutoInput />
+    <InputNew />
     <Slides />
     <Panels />
     <Alert />
     <Confirm />
     <Prompt />
+    <Checkbox />
+    <CheckboxList />
+    <CheckboxMore />
+    <CheckboxType />
+    <CheckboxButton />
+    <Clockpicker />
+    <ClockpickerEdit />
+    <ClockpickerColor />
+    <Datepicker />
+    <DatepickerRange />
+    <DatepickerFooter />
+    <DatepickerHeader />
+    <DatepickerTrigger />
+    <MonthPicker />
+    <DatepickerProgram />
+    <DatepickerInline />
+    <DatepickerEvent />
+    <DatepickerMore />
+    <DatepickerMultiple />
   </div>
 </template>
 
@@ -28,6 +50,28 @@ import OptionDown from "../components/OptionDown.vue";
 import Alert from "../components/Alert.vue";
 import Confirm from "../components/Confirm.vue";
 import Prompt from "../components/Prompt.vue";
+import Autocomplete from "../components/Autocomplete.vue";
+import AutoInput from "../components/AutoInput.vue";
+import InputNew from "../components/InputNew.vue";
+import Checkbox from "../components/Checkbox.vue";
+import CheckboxList from "../components/CheckboxList.vue";
+import CheckboxMore from "../components/CheckboxMore.vue";
+import CheckboxType from "../components/CheckboxType.vue";
+import CheckboxButton from "../components/CheckboxButton.vue";
+import Clockpicker from "../components/Clockpicker.vue";
+import ClockpickerEdit from "../components/ClockpickerEdit.vue";
+import ClockpickerColor from "../components/ClockpickerColor.vue";
+import Datepicker from "../components/Datepicker.vue";
+import DatepickerRange from "../components/DatepickerRange.vue";
+import DatepickerFooter from "../components/DatepickerFooter.vue";
+import DatepickerHeader from "../components/DatepickerHeader.vue";
+import DatepickerTrigger from "../components/DatepickerTrigger.vue";
+import MonthPicker from "../components/MonthPicker.vue";
+import DatepickerProgram from "../components/DatepickerProgram.vue";
+import DatepickerInline from "../components/DatepickerInline.vue";
+import DatepickerEvent from "../components/DatepickerEvent.vue";
+import DatepickerMore from "../components/DatepickerMore.vue";
+import DatepickerMultiple from "../components/DatepickerMultiple.vue";
 
 export default {
   name: "HelloWorld",
@@ -47,6 +91,28 @@ export default {
     Alert,
     Confirm,
     Prompt,
+    Autocomplete,
+    AutoInput,
+    InputNew,
+    Checkbox,
+    CheckboxList,
+    CheckboxMore,
+    CheckboxType,
+    CheckboxButton,
+    Clockpicker,
+    ClockpickerEdit,
+    ClockpickerColor,
+    Datepicker,
+    DatepickerRange,
+    DatepickerFooter,
+    DatepickerHeader,
+    DatepickerTrigger,
+    MonthPicker,
+    DatepickerProgram,
+    DatepickerInline,
+    DatepickerEvent,
+    DatepickerMore,
+    DatepickerMultiple,
   },
 };
 </script>
