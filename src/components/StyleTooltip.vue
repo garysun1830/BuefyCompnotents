@@ -46,13 +46,11 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
-.b-tooltips {
-    .b-tooltip:not(:last-child) {
-        margin-right: .5em
-    }
-    .b-tooltip {
-        margin-bottom: .5em
-    }
+<style>
+.b-tooltip:not(:last-child) {
+  margin-right: 0.5em;
+}
+.b-tooltip {
+  margin-bottom: 0.5em;
 }
 </style>
