@@ -1,5 +1,5 @@
 <template>
-  <div style="width: 900px; margin-left: 20px">
+  <div style="margin-left: 20px">
     <Menu />
     <Login />
     <Dropdown />
